@@ -3,5 +3,5 @@
 
 539 mo
 
-Divided in files smaller than 25m: 
+Divided in files smaller than 25mo: 
   20 000 000 primes/file
